@@ -6,6 +6,8 @@ $arrAllPermissions = [
     'order products',
     'view products',
     'manage products',
+    'cms',
+    'cms dangerous'
 ];
 return [
     'permissions' => $arrAllPermissions,
